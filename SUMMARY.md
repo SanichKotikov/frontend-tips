@@ -2,6 +2,7 @@
 
 * [Обзор](README.md)
 * [JS](js/README.md)
+  * [Типы данных](js/types/README.md)
   * [Замыкание и область видимости](js/closure-and-scope.md)
   * ["Поднятие" (Hoisting)](js/hoisting.md)
   * [Прототип объекта](js/proto.md)
