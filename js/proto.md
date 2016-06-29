@@ -52,6 +52,6 @@ obj2.__proto__ === undefined;
 
 ## Ссылки
 
-* [Object.prototype.__proto__](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/proto)
+* [Object.prototype.\_\_proto\_\_](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/proto)
 * [Object.prototype.hasOwnProperty()](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty)
 * [Object.create()](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
