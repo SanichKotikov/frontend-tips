@@ -15,5 +15,8 @@
   * [Object.prototype](js/prototype.md)
 * [CSS](css/README.md)
 * [Безопасность](security/README.md)
+  * [Same origin policy](security/sop.md)
+  * [Cross Site Scripting (XSS)](security/xss.md)
   * [Cross Site Request Forgery (XSRF/CSRF)](security/xsrf.md)
   * [JSON Hijacking](security/json-hijacking.md)
+  * [Заголовки](security/headers.md)
