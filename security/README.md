@@ -2,7 +2,7 @@
 
 Этот раздел относится не только к клиентской части, но и к серверной.
 
-* [Same origin policy](sop.md)
+* [Same Origin Policy](sop.md)
 * [Cross Site Scripting (XSS)](xss.md)
 * [Cross Site Request Forgery (XSRF/CSRF)](xsrf.md)
 * [JSON Hijacking](json-hijacking.md)
