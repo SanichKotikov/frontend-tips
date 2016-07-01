@@ -1,6 +1,6 @@
 # "Поднятие" (Hoisting)
 
-Все переменный "поднимаются" в начало функции:
+Все переменные _поднимаются_ в начало функции:
 
 ```js
 var scope = "global";
@@ -12,7 +12,7 @@ function f() {
 }
 ```
 
-Этот код, в реальности, будет выполнен следующим образом:
+Этот код, в действительности, будет выполнен следующим образом:
 
 ```js
 var scope = "global";
@@ -24,3 +24,18 @@ function f() {
     console.log(scope);
 }
 ```
+
+## let и const
+
+`let` и `const` тоже всплывают, но их поведение отличается:
+
+```js
+let x = 'outer scope';
+
+(function() {
+    console.log(x); // => ReferenceError
+    let x = 'inner scope';
+}());
+```
+
+Cвязано это с [Temporal Dead Zone](http://jsrocks.org/2015/01/temporal-dead-zone-tdz-demystified/).
