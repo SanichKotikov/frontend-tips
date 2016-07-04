@@ -11,6 +11,8 @@
 * ["Поднятие" (Hoisting)](hoisting.md)
 * [Прототип объекта](proto.md)
 * [Object.prototype](prototype.md)
+* [Параллельная модель и цикл событий](event-loop/README.md)
+  * [Обзор (event loop, stack and queue)](event-loop/event-loop.md)
 * [Производительность и оптимизация JS](performance/README.md)
   * [Базоввые советы по оптимизации](performance/base-optimisations.md)
   * [Полезные ссылки](performance/links.md)
