@@ -18,6 +18,7 @@
   * [Производительность и оптимизация JS](js/performance/README.md)
     * [Базоввые советы по оптимизации](js/performance/base-optimisations.md)
     * [Полезные ссылки](js/performance/links.md)
+  * [Поддержка браузерами](js/support.md)
 * [CSS](css/README.md)
   * [Производительность и оптимизация CSS](css/performance/README.md)
     * [Базоввые советы по оптимизации](css/performance/base-optimisations.md)
