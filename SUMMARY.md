@@ -30,3 +30,5 @@
   * [JSON Hijacking](security/json-hijacking.md)
   * [target="_blank"](security/target-blank.md)
   * [Заголовки](security/headers.md)
+* [Инструменты](tools/README.md)
+  * [NPM](tools/npm.md)
