@@ -27,4 +27,5 @@
   * [Cross Site Scripting (XSS)](security/xss.md)
   * [Cross Site Request Forgery (XSRF/CSRF)](security/xsrf.md)
   * [JSON Hijacking](security/json-hijacking.md)
+  * [target="_blank"](security/target-blank.md)
   * [Заголовки](security/headers.md)
