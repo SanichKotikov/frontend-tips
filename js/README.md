@@ -17,3 +17,4 @@
   * [Базоввые советы по оптимизации](performance/base-optimisations.md)
   * [Полезные ссылки](performance/links.md)
 * [Поддержка браузерами](support.md)
+* [Изменения ECMAScript 5](es5.md)
