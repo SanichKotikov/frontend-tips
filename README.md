@@ -12,3 +12,7 @@
 
 [github.com/cdrpro/frontend-tips](https://github.com/cdrpro/frontend-tips)   
 Если есть что добавить или нашли ошибки, всегда рад пул реквестам.
+
+### Changelog
+
+[История обновлений](https://github.com/cdrpro/frontend-tips/commits/master)

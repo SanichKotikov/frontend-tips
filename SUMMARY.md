@@ -33,4 +33,5 @@
   * [target="_blank"](security/target-blank.md)
   * [Заголовки](security/headers.md)
 * [Инструменты](tools/README.md)
-  * [NPM](tools/npm.md)
+  * [Пакетные менеджеры](tools/pm/README.md)
+    * [NPM](tools/pm/npm.md)
