@@ -20,6 +20,7 @@
     * [Полезные ссылки](js/performance/links.md)
   * [Поддержка браузерами](js/support.md)
   * [Изменения ECMAScript 5](js/es5.md)
+  * [ECMAScript 6 (2015)](js/es6.md)
 * [CSS](css/README.md)
   * [Pseudo Class](css/pseudo-class/README.md)
     * [:focus-within](css/pseudo-class/focus-within.md)

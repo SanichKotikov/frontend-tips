@@ -18,3 +18,4 @@
   * [Полезные ссылки](performance/links.md)
 * [Поддержка браузерами](support.md)
 * [Изменения ECMAScript 5](es5.md)
+* [ECMAScript 6 (2015)](es6.md)
