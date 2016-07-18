@@ -18,6 +18,8 @@
   * [Производительность и оптимизация JS](js/performance/README.md)
     * [Базоввые советы по оптимизации](js/performance/base-optimisations.md)
     * [Полезные ссылки](js/performance/links.md)
+  * [Память](js/memory/README.md)
+    * [Утечки памяти](js/memory/leaks.md)
   * [Поддержка браузерами](js/support.md)
   * [Изменения ECMAScript 5](js/es5.md)
   * [ECMAScript 6 (2015)](js/es6.md)
