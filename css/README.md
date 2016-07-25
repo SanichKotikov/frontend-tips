@@ -4,6 +4,7 @@
   * [:focus-within](pseudo-class/focus-within.md)
 * [Производительность и оптимизация CSS](performance/README.md)
   * [Базоввые советы по оптимизации](performance/base-optimisations.md)
+  * [CSS Containment](performance/contain.md)
 
 ## Интересное
 

@@ -28,6 +28,7 @@
     * [:focus-within](css/pseudo-class/focus-within.md)
   * [Производительность и оптимизация CSS](css/performance/README.md)
     * [Базоввые советы по оптимизации](css/performance/base-optimisations.md)
+    * [CSS Containment](css/performance/contain.md)
 * [Шрифты](fonts/README.md)
 * [Безопасность](security/README.md)
   * [Same Origin Policy](security/sop.md)
