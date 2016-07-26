@@ -41,3 +41,5 @@
   * [GIT](tools/git.md)
   * [Пакетные менеджеры](tools/pm/README.md)
     * [NPM](tools/pm/npm.md)
+* [Разное](other/README.md)
+  * [Интересные ссылки](other/links.md)
