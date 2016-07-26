@@ -5,7 +5,6 @@
 * [Производительность и оптимизация CSS](performance/README.md)
   * [Базоввые советы по оптимизации](performance/base-optimisations.md)
   * [CSS Containment](performance/contain.md)
-
-## Интересное
-
-* [Styling Broken Images](https://bitsofco.de/styling-broken-images/)
+* [Разное](other/README.md)
+  * [user-select](other/user-select.md)
+* [Интересные ссылки по CSS](links.md)
