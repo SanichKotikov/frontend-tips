@@ -45,4 +45,6 @@
   * [Пакетные менеджеры](tools/pm/README.md)
     * [NPM](tools/pm/npm.md)
 * [Разное](other/README.md)
+  * [Доступность](other/accessibility/README.md)
+    * [Ссылки про доступность](other/accessibility/links.md)
   * [Интересные ссылки](other/links.md)
