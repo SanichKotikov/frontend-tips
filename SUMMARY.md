@@ -2,6 +2,7 @@
 
 * [Обзор](README.md)
 * [JS](js/README.md)
+  * [Терминология](js/terminology.md)
   * [Типы данных](js/types/README.md)
     * [number](js/types/number.md)
     * string

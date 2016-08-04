@@ -1,5 +1,6 @@
 # JS
 
+* [Терминология](terminology.md)
 * [Типы данных](types/README.md)
   * [number](types/number.md)
   * string
