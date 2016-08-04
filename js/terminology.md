@@ -1,7 +1,7 @@
 # Терминология
 
-* Чистые функции (Pure Functions)
-* Функции высшего порядка (Higher Order Functions)
+* [Чистые функции (Pure Functions)](#чистые-функции-pure-functions)
+* [Функции высшего порядка (Higher Order Functions)](#функции-высшего-порядка-higher-order-functions)
 
 ***
 
