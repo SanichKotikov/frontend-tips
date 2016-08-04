@@ -25,6 +25,7 @@
   * [Изменения ECMAScript 5](js/es5.md)
   * [ECMAScript 6 (2015)](js/es6.md)
 * [HTML](html/README.md)
+  * [Полезные ссылки по html](html/links.md)
 * [CSS](css/README.md)
   * [Pseudo Class](css/pseudo-class/README.md)
     * [:focus-within](css/pseudo-class/focus-within.md)
