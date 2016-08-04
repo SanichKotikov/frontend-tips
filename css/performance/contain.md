@@ -14,5 +14,6 @@ contain: none | strict | content | [ size || layout || style || paint ];
 
 ## Ссылки
 
+* [CSS-изоляция](http://css-live.ru/articles/css-izolyaciya.html)
 * [CSS Containment Module Level 3](https://drafts.csswg.org/css-containment/)
 * [CSS Containment in Chrome 52](https://developers.google.com/web/updates/2016/06/css-containment)
