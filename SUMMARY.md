@@ -26,6 +26,8 @@
   * [ECMAScript 6 (2015)](js/es6.md)
   * [ECMAScript 2016](js/es2016.md)
 * [HTML](html/README.md)
+  * [Доступность и HTML](html/accessibility/README.md)
+    * [Аттрибут `inert`](html/accessibility/inert-attr.md)
   * [Полезные ссылки по html](html/links.md)
 * [CSS](css/README.md)
   * [Pseudo Class](css/pseudo-class/README.md)
