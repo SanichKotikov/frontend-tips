@@ -37,6 +37,7 @@
     * [CSS Containment](css/performance/contain.md)
   * [Разное](css/other/README.md)
     * [user-select](css/other/user-select.md)
+    * [Стилизация выделенного текста с помощью `::selection`](css/other/selection.md)
   * [Интересные ссылки по CSS](css/links.md)
 * [Шрифты](fonts/README.md)
 * [Безопасность](security/README.md)
