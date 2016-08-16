@@ -36,6 +36,7 @@
     * [Базоввые советы по оптимизации](css/performance/base-optimisations.md)
     * [CSS Containment](css/performance/contain.md)
   * [Разное](css/other/README.md)
+    * [CSS переменные (кастомные свойства)](css/other/variables.md)
     * [user-select](css/other/user-select.md)
     * [Стилизация выделенного текста с помощью `::selection`](css/other/selection.md)
   * [Интересные ссылки по CSS](css/links.md)
