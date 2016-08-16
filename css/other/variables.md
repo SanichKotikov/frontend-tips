@@ -7,7 +7,7 @@
 ```css
 /* инициализация */
 :root {
-    --main-bg-color: brown;
+  --main-bg-color: brown;
 }
 
 /* использование */
@@ -15,6 +15,22 @@ element {
   background-color: var(--main-bg-color);
 }
 ```
+
+## Взаимодействие из JS
+
+```js
+// название css переменной
+const PROP_NAME = '--font-size';
+
+// чтение стилей и значения переменной
+const styles = window.getComputedStyle(el);
+const fontSize = parseInt(styles.getPropertyValue(PROP_NAME), 10);
+
+// применение переменной
+el.style.setProperty(PROP_NAME, fontSize + 5);
+```
+
+[Живой пример](https://jsfiddle.net/xkc0at80/)
 
 ## Ссылки
 
