@@ -18,6 +18,7 @@
     * [Обзор (event loop, stack and queue)](js/event-loop/event-loop.md)
   * [Производительность и оптимизация JS](js/performance/README.md)
     * [Базоввые советы по оптимизации](js/performance/base-optimisations.md)
+    * [Цена небольших модулей](js/performance/cost-of-small-modules.md)
     * [Полезные ссылки](js/performance/links.md)
   * [Память](js/memory/README.md)
     * [Утечки памяти](js/memory/leaks.md)
