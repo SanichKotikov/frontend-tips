@@ -43,3 +43,4 @@ function removeButton() {
 ## Ссылки
 
 * [4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them](https://auth0.com/blog/2016/01/26/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/)
+* [4 вида утечек памяти в JavaScript и как с ними бороться (перевод)](https://habrahabr.ru/post/309318/)
