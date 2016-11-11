@@ -24,3 +24,4 @@
 * [Изменения ECMAScript 5](es5.md)
 * [ECMAScript 6 (2015)](es6.md)
 * [ECMAScript 2016](es2016.md)
+* [Интересные ссылки по JS](links.md)

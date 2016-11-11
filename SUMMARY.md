@@ -26,6 +26,7 @@
   * [Изменения ECMAScript 5](js/es5.md)
   * [ECMAScript 6 (2015)](js/es6.md)
   * [ECMAScript 2016](js/es2016.md)
+  * [Интересные ссылки по JS](js/links.md)
 * [HTML](html/README.md)
   * [Доступность и HTML](html/accessibility/README.md)
     * [Аттрибут `inert`](html/accessibility/inert-attr.md)
