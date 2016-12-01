@@ -12,8 +12,10 @@
     * Объекты
   * [Замыкание и область видимости](js/closure-and-scope.md)
   * ["Поднятие" (Hoisting)](js/hoisting.md)
-  * [Прототип объекта](js/proto.md)
-  * [Object.prototype](js/prototype.md)
+  * [Строгий режим (use strict)](js/strict-mode.md)
+  * Прототип и prototype
+    * [Прототип объекта](js/proto.md)
+    * [Object.prototype](js/prototype.md)
   * [Параллельная модель и цикл событий](js/event-loop/README.md)
     * [Обзор (event loop, stack and queue)](js/event-loop/event-loop.md)
   * [Производительность и оптимизация JS](js/performance/README.md)
