@@ -24,6 +24,7 @@
     * [Полезные ссылки](js/performance/links.md)
   * [Память](js/memory/README.md)
     * [Утечки памяти](js/memory/leaks.md)
+  * [Струкруры данных](js/data-structures/README.md)
   * [Поддержка браузерами](js/support.md)
   * [Изменения ECMAScript 5](js/es5.md)
   * [ECMAScript 6 (2015)](js/es6.md)
