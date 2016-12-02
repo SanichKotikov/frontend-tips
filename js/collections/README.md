@@ -1,0 +1,31 @@
+# Коллекции в JS
+
+## Индексированные коллекции
+
+* `Array` — массив.
+
+Плюс тепизированные варианты:
+
+* `Int8Array`
+* `Uint8Array`
+* `Uint8ClampedArray`
+* `Int16Array`
+* `Uint16Array`
+* `Int32Array`
+* `Uint32Array`
+* `Float32Array`
+* `Float64Array`
+
+## Коллекции по ключу (es6+)
+
+* `Map` — коллекция для хранения записей вида `ключ: значение`;
+* `Set` — коллекция для хранения значений.
+
+Плюс урезанные версии, не препятствующие сборщику мусора удалять свои элементы и имеющие ряд ограничений.
+
+* `WeakMap` — особый вид Map;
+* `WeakSet` — особый вид Set.
+
+## Ссылки
+
+* [Set, Map, WeakSet и WeakMap (learn.javascript.ru)](https://learn.javascript.ru/set-map)

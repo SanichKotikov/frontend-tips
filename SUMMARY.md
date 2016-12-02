@@ -10,6 +10,7 @@
     * [null](js/types/null.md)
     * [undefined](js/types/undefined.md)
     * Объекты
+  * [Коллекции](js/collections/README.md)
   * [Замыкание и область видимости](js/closure-and-scope.md)
   * ["Поднятие" (Hoisting)](js/hoisting.md)
   * [Строгий режим (use strict)](js/strict-mode.md)

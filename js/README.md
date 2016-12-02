@@ -8,6 +8,7 @@
   * [null](types/null.md)
   * [undefined](types/undefined.md)
   * Объекты
+* [Коллекции](collections/README.md)
 * [Замыкание и область видимости](closure-and-scope.md)
 * ["Поднятие" (Hoisting)](hoisting.md)
 * [Строгий режим (use strict)](strict-mode.md)
