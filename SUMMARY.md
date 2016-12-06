@@ -11,6 +11,8 @@
     * [undefined](js/types/undefined.md)
     * Объекты
   * [Коллекции](js/collections/README.md)
+    * [Массивы](js/collections/array.md)
+    * [Полезные ссылки](js/collections/links.md)
   * [Замыкание и область видимости](js/closure-and-scope.md)
   * ["Поднятие" (Hoisting)](js/hoisting.md)
   * [Строгий режим (use strict)](js/strict-mode.md)

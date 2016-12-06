@@ -52,3 +52,9 @@ typeof 3.6 === 'number';
 123.0.toString();
 (123).toString();
 ```
+
+***
+
+## Ссылки
+
+* [Speaking JavaScript. Chapter 11. Numbers](http://speakingjs.com/es5/ch11.html)

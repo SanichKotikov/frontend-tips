@@ -26,6 +26,6 @@
 * `WeakMap` — особый вид Map;
 * `WeakSet` — особый вид Set.
 
-## Ссылки
+***
 
-* [Set, Map, WeakSet и WeakMap (learn.javascript.ru)](https://learn.javascript.ru/set-map)
+* [Массивы](array.md)
