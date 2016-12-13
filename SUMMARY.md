@@ -44,6 +44,7 @@
   * [Производительность и оптимизация CSS](css/performance/README.md)
     * [Базоввые советы по оптимизации](css/performance/base-optimisations.md)
     * [CSS Containment](css/performance/contain.md)
+    * [Полезные ссылки](css/performance/links.md)
   * [Разное](css/other/README.md)
     * [CSS переменные (кастомные свойства)](css/other/variables.md)
     * [user-select](css/other/user-select.md)
