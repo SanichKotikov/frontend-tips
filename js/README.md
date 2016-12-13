@@ -3,10 +3,11 @@
 * [Терминология](terminology.md)
 * [Типы данных](types/README.md)
   * [number](types/number.md)
-  * string
+  * [string](types/string.md)
   * [boolean](types/boolean.md)
   * [null](types/null.md)
   * [undefined](types/undefined.md)
+  * Symbol
   * Объекты
 * [Коллекции](collections/README.md)
   * [Массивы](collections/array.md)

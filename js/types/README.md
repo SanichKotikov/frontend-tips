@@ -7,7 +7,7 @@
 Примитивы не объекты, не смотря на то что с ними можно работать как с объектами.
 
 * [number](number.md)
-* string
+* [string](string.md)
 * [boolean](boolean.md)
 * [null](null.md)
 * [undefined](undefined.md)

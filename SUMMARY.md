@@ -5,10 +5,11 @@
   * [Терминология](js/terminology.md)
   * [Типы данных](js/types/README.md)
     * [number](js/types/number.md)
-    * string
+    * [string](js/types/string.md)
     * [boolean](js/types/boolean.md)
     * [null](js/types/null.md)
     * [undefined](js/types/undefined.md)
+    * Symbol
     * Объекты
   * [Коллекции](js/collections/README.md)
     * [Массивы](js/collections/array.md)
