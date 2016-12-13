@@ -60,6 +60,7 @@
   * [GIT](tools/git.md)
   * [Пакетные менеджеры](tools/pm/README.md)
     * [NPM](tools/pm/npm.md)
+  * [Тестирование](tools/testing/README.md)
 * [Разное](other/README.md)
   * [Доступность](other/accessibility/README.md)
     * [Ссылки про доступность](other/accessibility/links.md)
