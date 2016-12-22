@@ -16,3 +16,7 @@
 ### Changelog
 
 [История обновлений](https://github.com/cdrpro/frontend-tips/commits/master)
+
+### Лицензия
+
+CC-BY-NC-ND 4.0 International

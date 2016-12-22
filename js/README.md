@@ -33,4 +33,5 @@
 * [ECMAScript 2016](es2016.md)
 * [Хранение данных "на клиенте"](storages/README.md)
   * [Обзор способов хранения данных "в браузере"](storages/overview.md)
+  * [Полезные ссылки](storages/links.md)
 * [Интересные ссылки по JS](links.md)
