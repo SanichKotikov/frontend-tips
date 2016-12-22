@@ -18,8 +18,9 @@
 * Прототип и prototype
   * [Прототип объекта](proto.md)
   * [Object.prototype](prototype.md)
-* [Параллельная модель и цикл событий](event-loop/README.md)
-  * [Обзор (event loop, stack and queue)](event-loop/event-loop.md)
+* [Параллельная модель и цикл событий](asynchronous/README.md)
+  * [Обзор (event loop, stack and queue)](asynchronous/event-loop.md)
+  * [Промисы (Promises)](asynchronous/promises.md)
 * [Производительность и оптимизация JS](performance/README.md)
   * [Базоввые советы по оптимизации](performance/base-optimisations.md)
   * [Цена небольших модулей](performance/cost-of-small-modules.md)
