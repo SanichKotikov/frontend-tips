@@ -42,6 +42,8 @@
 * [HTML](html/README.md)
   * [Доступность и HTML](html/accessibility/README.md)
     * [Аттрибут `inert`](html/accessibility/inert-attr.md)
+  * [Производительность и оптимизация HTML](html/performance/README.md)
+    * [Полезные ссылки](html/performance/links.md)
   * [Полезные ссылки по html](html/links.md)
 * [CSS](css/README.md)
   * [Pseudo Class](css/pseudo-class/README.md)
