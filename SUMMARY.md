@@ -23,6 +23,7 @@
   * [Параллельная модель и цикл событий](js/asynchronous/README.md)
     * [Обзор (event loop, stack and queue)](js/asynchronous/event-loop.md)
     * [Промисы (Promises)](js/asynchronous/promises.md)
+    * [Кастомные события (CustomEvent)](js/asynchronous/custom-event.md)
   * [Производительность и оптимизация JS](js/performance/README.md)
     * [Базоввые советы по оптимизации](js/performance/base-optimisations.md)
     * [Цена небольших модулей](js/performance/cost-of-small-modules.md)
