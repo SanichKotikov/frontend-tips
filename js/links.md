@@ -2,3 +2,4 @@
 
 * [Магия JavaScript: что можно сделать, используя лишь 6 символов?](https://tproger.ru/translations/js-magic-with-6-symbols/)
 * [Speaking JavaScript: An In-Depth Guide for Programmers (онлайн книга)](http://speakingjs.com/es5/index.html)
+* [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
