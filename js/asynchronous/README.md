@@ -10,4 +10,5 @@ _setTimeout/setInterval_ и _addEventListener_. Но результат их р�
 
 * [Обзор (event loop, stack and queue)](event-loop.md)
 * [Промисы (Promises)](promises.md)
+* [Генераторы](generators.md)
 * [Кастомные события (CustomEvent)](custom-event.md)

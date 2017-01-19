@@ -21,6 +21,7 @@
 * [Параллельная модель и цикл событий](asynchronous/README.md)
   * [Обзор (event loop, stack and queue)](asynchronous/event-loop.md)
   * [Промисы (Promises)](asynchronous/promises.md)
+  * [Генераторы](asynchronous/generators.md)
   * [Кастомные события (CustomEvent)](asynchronous/custom-event.md)
 * [Производительность и оптимизация JS](performance/README.md)
   * [Базоввые советы по оптимизации](performance/base-optimisations.md)

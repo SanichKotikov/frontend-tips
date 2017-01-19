@@ -51,7 +51,8 @@ promise.then(result1 => {
 });
 ```
 
-Если возвращать значение, то следующий _then_ будет вызван с этим значением.
+Если возвращать значение, оно автоматически завернётся в resolved промис,
+и следующий _then_ будет вызван с этим значением.
 Если же возвращать промис, то следующий _then_ дождётся выполнения этого промиса, и только потом будет вызван.
 
 ## Последовательное выполнение
@@ -92,3 +93,4 @@ Promise.all(arrayOfPromises)
 * [Promise (MDN)](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 * [Промисы (frontender.info)](http://frontender.info/promises/)
 * [Промисы (learn.javascript.ru)](https://learn.javascript.ru/promise)
+* [caniuse](http://caniuse.com/#feat=promises)
