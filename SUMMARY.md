@@ -36,6 +36,7 @@
   * [Изменения ECMAScript 5](js/es5.md)
   * [ECMAScript 6 (2015)](js/es6.md)
   * [ECMAScript 2016](js/es2016.md)
+  * [ECMAScript 2017](js/es2017.md)
   * [Хранение данных "на клиенте"](js/storages/README.md)
     * [Обзор способов хранения данных "в браузере"](js/storages/overview.md)
     * [Полезные ссылки](js/storages/links.md)
