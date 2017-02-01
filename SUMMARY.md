@@ -40,6 +40,8 @@
   * [Хранение данных "на клиенте"](js/storages/README.md)
     * [Обзор способов хранения данных "в браузере"](js/storages/overview.md)
     * [Полезные ссылки](js/storages/links.md)
+  * [Веб Компоненты](js/web-components/README.md)
+    * [Полезные ссылки](js/web-components/links.md)
   * [Интересные ссылки по JS](js/links.md)
 * [HTML](html/README.md)
   * [Доступность и HTML](html/accessibility/README.md)
